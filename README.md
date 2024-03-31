@@ -1,7 +1,7 @@
 # Data_field_job_analysis
 ## Overview
-In this project we used dataset from Kaggle called Jobs and Salaries in Data Fields. We used python and libraries for data cleaning, visualization and analysis in google Colab.
- we performed meaningful insights from the data. In addition, We created a simple dashboard Power BI to visualize the data to help us understand the data better.
+In this project we used dataset from Kaggle called Jobs and Salaries in the Data Field. We used python and libraries for data cleaning, visualization and analysis in google Colab and DataSpell.
+we extracted meaningful insights from the data. 
 
  ## Tables of content
  DataSet, Power BI dashBoard, Google Colab 
@@ -17,10 +17,9 @@ The Jobs and Salaries dataset used in this project. The dataset contains these c
  We created a simple dashborad Power Bi to help us to understand the dataset faster and better. You can found it in the repository. 
 
  ## Google Colab 
- We used python  and some libraries like 
+ We used python and some libraries including:
 * pandas 
 * numpy
 * matplotlib
 * seaborn 
-* sklearn
-for data cleaning, visualization and analysis in google Colab.
+for data cleaning, visualization and analysis in google Colab and DataSpell.
