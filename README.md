@@ -21,5 +21,6 @@ The Jobs and Salaries dataset used in this project. The dataset contains these c
 * pandas 
 * numpy
 * matplotlib
-* seaborn 
+* seaborn
+
 for data cleaning, visualization and analysis in google Colab and DataSpell.
